@@ -2,13 +2,15 @@
 
 将NTQQLiteLoaderAPI封装成OneBot11/12标准的API, V12没有完整测试
 
+## 注意本插件2.0以下的版本不支持LiteLoader1.0.0以上的版本
+
 ## 安装方法
 
-1.安装[NTQQLiteLoader](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
+1.安装[NTQQLiteLoader](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT/tree/0.x.x)
 
-2.安装修改后的[LiteLoaderQQNT-Plugin-LLAPI](https://github.com/linyuchen/LiteLoaderQQNT-Plugin-LLAPI)，原版的功能有缺陷
+2.安装修改后的[LiteLoaderQQNT-Plugin-LLAPI](https://github.com/linyuchen/LiteLoaderQQNT-Plugin-LLAPI/tree/0.x.x)，原版的功能有缺陷
 
-3.安装本项目插件[OneBotApi](https://github.com/linyuchen/LiteLoaderQQNT-OneBotApi/releases/)
+3.安装本项目插件[OneBotApi](https://github.com/linyuchen/LiteLoaderQQNT-OneBotApi/releases/tag/v1.2.7)
 
 *关于插件的安装方法: 上述的两个插件都没有上架NTQQLiteLoader插件市场，需要自己下载源码复制到插件目录*
 
