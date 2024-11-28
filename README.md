@@ -1,9 +1,10 @@
 # LLOneBot
 
-LiteLoaderQQNT 插件，实现 OneBot 11 和 Satori 协议，用于 QQ 机器人开发
+支持 OneBot 11 和 Satori 协议
 
 > [!CAUTION]\
-> 请不要在 QQ 官方群聊和任何影响力较大的简中互联网平台（包括但不限于: 哔哩哔哩，微博，知乎，抖音等）发布和讨论任何与本插件存在相关性的信息
+> 本项目仅用于学习 Electron、NodeJS 相关知识，禁止用于其他用途\
+> 请不要在任何影响力较大的简中互联网平台（包括但不限于: 哔哩哔哩，微博，知乎，抖音等）发布和讨论任何与本插件存在相关性的信息
 
 TG 群：<https://t.me/+nLZEnpne-pQ1OWFl>
 
